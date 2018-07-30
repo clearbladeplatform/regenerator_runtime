@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,regenerator_runtime",
+    "logging_enabled": "false",
+    "name": "regenerator_runtimeSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "regenerator_runtimeSmokeTest.js"
+}
